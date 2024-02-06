@@ -1,7 +1,10 @@
 # Automacao_ConsultaDadosCadastrais
-Com o objetivo de otimizar o trabalho de um colaborador, desenvolvi este código que automatiza a extração e consulta de dados em um sistema do Governo. Onde através de uma possível falha, o captcha não se altera se o ID for válido.
+Com o objetivo de otimizar o trabalho de um colaborador, desenvolvi este código que automatiza a extração e consulta de dados em um sistema do Governo. Onde através de uma <b>vulnerabilidade</b>, o captcha não se altera se o ID for válido.
 
 <b>Foram usadas as bibliotecas Pyautogui, Pandas e Time</b><br>
+```bash
+pip install pandas pyautogui
+```
 Foi fornecida uma planilha com a respectiva coluna, que após executar o "tabela.py" foi extraida para um arquivo de texto "extraido.txt" que servirá de wordlist.
 
 ![image](https://github.com/GiovanniMatos/Automacao_ConsultaDadosCadastrais/assets/99231397/f2c17c55-a41b-4167-b485-fee9773aa195) <br>
