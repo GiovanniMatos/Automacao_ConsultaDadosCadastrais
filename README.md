@@ -1,5 +1,5 @@
 # Automacao_ConsultaDadosCadastrais
-Com o objetivo de otimizar o trabalho de um colaborador, desenvolvi este código que automatiza a extração e consulta de dados em um sistema do Governo. Onde através de uma <b>vulnerabilidade</b>, o captcha não se altera se o ID for válido.
+Com o objetivo de otimizar o trabalho de um colaborador, desenvolvi este código que automatiza a extração e consulta de dados em um sistema do Governo. Onde através de uma vulnerabilidade, o captcha não se altera se o ID for válido.
 
 <b>Foram usadas as bibliotecas Pyautogui, Pandas e Time</b><br>
 ```bash
